@@ -1,4 +1,4 @@
-## AttifyOS 4.0
+# AttifyOS 4.0
 
 AttifyOS is a penetration testing distro for security professionals to assess the security of Internet of Things (IoT) devices. The latest version - AttifyOS 4.0 is based on Ubuntu 22.04 and contains pre-configured tools to help you with your next IoT pentest.
 
@@ -10,7 +10,7 @@ attify
 
 ## Downloads
 
-You can download AttifyOS4 from GitHub [releases](https://github.com/AttifyOS/AttifyOS/releases).
+You can download AttifyOS 4 from GitHub [releases](https://github.com/AttifyOS/AttifyOS/releases).
 
 ## Installation
 
@@ -78,7 +78,7 @@ The packages have been built with portability in mind such that it is possible t
 
 Unfortunately, not all packages could be built this way and had to be left out, like Wireshark. However wireshark can always be installed using `apt`.
 
-## Common Issues and their Workaround
+## Common Issues and their workarounds
 
 ### No network in AttifyOS
 
