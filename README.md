@@ -115,6 +115,10 @@ For VMware follow [these steps](https://www.isumsoft.com/computer/2-ways-enable-
 
 For VirtualBox follow these: [1](https://linuxhint.com/enable-copy-paste-virtualbox-host/), [2](https://linuxhint.com/virtualbox_shared_folders/)
 
+### Bluetooth not working
+
+AttifyOS 4 comes with the snap packaged version of bluez. If `hciconfig` and related tools fails to work, remove the snap package of bluez by running `apm remove bluez` (which internally runs `snap remove bluez`) and then install the deb packaged bluez as `sudo apt install bluez`
+
 ## Screenshots
 
 ![](./img/1.png)
