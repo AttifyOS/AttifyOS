@@ -12,12 +12,14 @@ attify
 
 You can download AttifyOS 4 from GitHub [releases](https://github.com/AttifyOS/AttifyOS/releases).
 
+> [!NOTE]  
+> As the files are quite large in size they are distributed in a multi-part zip/7z format. While other archival tools may work but for best results use 7zip to extract.
+
 ## Installation
 
 AttifyOS v4 is distributed both in the form of a OVA and an ISO. The OVA can be imported in VirtualBox and VMware Player/Workstation.
 
 AttifyOS v4 can also be installed from the ISO. In such case ensure that the VM has atleast 2GiB of RAM and 60 GiB of disk space available.
-
 
 ## Tools pre-installed
 
